@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruba-art.
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C# and C++.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on Programming for games.
 - 📫 reach me at discord @Dhruba#4937.
 
